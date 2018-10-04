@@ -21,7 +21,7 @@ public class MarkovRunner {
     public void runModel(IMarkovModel markov, String text, int size, int seed){ 
         markov.setTraining(text); 
         markov.setRandom(seed);
-        System.out.println("running with " + markov + " and seed " + seed);
+        System.out.println("running with " + markov); 
         for(int k=0; k < 3; k++){ 
             String st = markov.getRandomText(size); 
             printOut(st); 
@@ -31,9 +31,11 @@ public class MarkovRunner {
     public void runMarkov() { 
         FileResource fr = new FileResource(); 
         String st = fr.asString(); 
-        st = st.replace('\n', ' '); 
-        MarkovWordOne markovWord = new MarkovWordOne(); 
-        runModel(markovWord, st, 120, 175);
+        st = st.replace('\n', ' ');
+        MarkovWord mw = new MarkovWord(3);
+        runModel(mw, st, 200, 643);
+        //MarkovWordOne markovWord = new MarkovWordOne(); 
+        //runModel(markovWord, st, 200); 
     } 
 
     private void printOut(String s){
@@ -51,16 +53,8 @@ public class MarkovRunner {
         System.out.println("\n----------------------------------");
     }
 
-    public void runMarkovTwo(){
-        FileResource fr = new FileResource();
-        String st = fr.asString();
-        st = st.replace('\n', ' ');
-        MarkovWordTwo mt = new MarkovWordTwo();
-        runModel(mt, st, 120, 549);
-    }
-
     public static void main(String[] args){
         MarkovRunner mr = new MarkovRunner();
-        mr.runMarkovTwo();
+        mr.runMarkov();
     }
 }

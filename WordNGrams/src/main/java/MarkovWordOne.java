@@ -32,6 +32,7 @@ public class MarkovWordOne implements IMarkovModel {
 		sb.append(" ");
 		for(int k=0; k < numWords-1; k++){
 		    ArrayList<String> follows = getFollows(key);
+//            System.out.println(key + ": " + follows);
 		    if (follows.size() == 0) {
 		        break;
 		    }
@@ -47,12 +48,17 @@ public class MarkovWordOne implements IMarkovModel {
 	
 	private ArrayList<String> getFollows(String key) {
 	    ArrayList<String> follows = new ArrayList<String>();
-	    int index = indexOf(myText, key, 0);
-	    while (index != -1){
-	        follows.add(myText[index]);
-	        index = indexOf(myText, key, index+1);
+	    int pos = 0;
+	    while (pos < myText.length){
+	        int start = indexOf(myText, key, pos);
+	        if (start == -1 || start + key.length() >= myText.length){
+	            break;
+            }
+            String next = myText[start+1];
+	        follows.add(next);
+	        pos = start + key.length() + 1;
         }
-	    return follows;
+        return follows;
     }
 
     private int indexOf(String[] words, String target, int start){

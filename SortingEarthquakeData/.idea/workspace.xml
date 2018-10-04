@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b603739b-596b-4ad3-90f5-3850d539fe30" name="Default Changelist" comment="" />
+    <list default="true" id="b603739b-596b-4ad3-90f5-3850d539fe30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GeneratingRandomText/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfaceAndAbstractClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchingEarthquakeData/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingAtScale/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordGram/WordGram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordGram/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordGram/src/main/java/EfficientMarkovWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordGram/src/main/java/MarkovWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordNGrams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordNGrams/src/main/java/MarkovWordTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratingRandomText/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratingRandomText/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfaceAndAbstractClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceAndAbstractClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchingEarthquakeData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchingEarthquakeData/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAtScale/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortingAtScale/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordNGrams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordNGrams/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordNGrams/src/main/java/MarkovRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WordNGrams/src/main/java/MarkovRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordNGrams/src/main/java/MarkovWordOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WordNGrams/src/main/java/MarkovWordOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordNGrams/target/classes/MarkovRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WordNGrams/target/classes/MarkovRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordNGrams/target/classes/MarkovWordOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WordNGrams/target/classes/MarkovWordOne.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,6 +131,9 @@
       <find>sortByMagnitude</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -124,6 +154,9 @@
     <option name="y" value="109" />
     <option name="width" value="1485" />
     <option name="height" value="920" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -171,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538208547984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538661116463" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/courserajava.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />

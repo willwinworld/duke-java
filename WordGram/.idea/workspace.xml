@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5651e9b9-b319-45b3-bff8-a36607cf5cfe" name="Default Changelist" comment="">
+    <list default="true" id="409b7a04-19c0-4ba1-8ee8-b375b6c4695e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../GeneratingRandomText/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../InterfaceAndAbstractClass/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SearchingEarthquakeData/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingAtScale/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SortingEarthquakeData/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordGram/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordGram/WordGram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordGram/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordGram/src/main/java/EfficientMarkovWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WordGram/src/main/java/MarkovWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordGram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EfficientMarkovWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MarkovWord.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WordNGrams/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WordNGrams/src/main/java/MarkovWordTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GeneratingRandomText/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratingRandomText/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InterfaceAndAbstractClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceAndAbstractClass/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SearchingEarthquakeData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchingEarthquakeData/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAtScale/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortingAtScale/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SortingEarthquakeData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortingEarthquakeData/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordNGrams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordNGrams/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordNGrams/src/main/java/MarkovRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WordNGrams/src/main/java/MarkovRunner.java" afterDir="false" />
@@ -38,95 +38,96 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-245883657">
+    <session id="-1131588037">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="553" />
-          <entry key="xml" value="10" />
+          <entry key="java" value="1810" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="553" />
-          <entry key="XML" value="10" />
+          <entry key="JAVA" value="1810" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/WordGram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IMarkovModel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="14" column="8" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="17" />
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/QuakeEntry.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/EfficientMarkovWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MagnitudeComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="53" />
+            <state relative-caret-position="314">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
-                <element signature="e#0#368#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#573#581#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TitleLastAndMagnitudeComparator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MarkovWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DifferentSorters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="80" column="50" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
+            <state relative-caret-position="-211">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding>
-                <element signature="e#0#1621#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#1633#1641#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TitleAndDepthComparator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MarkovRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="9" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="54" />
+            <state relative-caret-position="195">
+              <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -140,11 +141,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>sortWithCompareTo</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -152,10 +148,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/QuakeEntry.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TitleAndDepthComparator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TitleLastAndMagnitudeComparator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DifferentSorters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MarkovWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MarkovRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WordGram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EfficientMarkovWord.java" />
       </list>
     </option>
   </component>
@@ -165,41 +161,40 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="139" />
-    <option name="y" value="109" />
-    <option name="width" value="1485" />
-    <option name="height" value="920" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="502" />
+    <option name="y" value="85" />
+    <option name="width" value="1358" />
+    <option name="height" value="845" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SortingAtScale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortingAtScale" type="462c0819:PsiDirectoryNode" />
+              <item name="WordGram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordGram" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SortingAtScale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortingAtScale" type="462c0819:PsiDirectoryNode" />
+              <item name="WordGram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordGram" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SortingAtScale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortingAtScale" type="462c0819:PsiDirectoryNode" />
+              <item name="WordGram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordGram" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SortingAtScale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortingAtScale" type="462c0819:PsiDirectoryNode" />
+              <item name="WordGram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordGram" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -208,18 +203,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538661116494" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538661116624" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/courserajava.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -236,17 +230,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="DifferentSorters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DifferentSorters" />
-      <module name="SortingAtScale" />
+  <component name="RunManager" selected="Application.MarkovRunner">
+    <configuration name="MarkovRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MarkovRunner" />
+      <module name="WordGram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordGram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordGram" />
+      <module name="WordGram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WordGram" />
+      <item itemvalue="Application.MarkovRunner" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DifferentSorters" />
+        <item itemvalue="Application.MarkovRunner" />
+        <item itemvalue="Application.WordGram" />
       </list>
     </recent_temporary>
   </component>
@@ -263,20 +269,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5651e9b9-b319-45b3-bff8-a36607cf5cfe" name="Default Changelist" comment="" />
-      <created>1537862494582</created>
+      <changelist id="409b7a04-19c0-4ba1-8ee8-b375b6c4695e" name="Default Changelist" comment="" />
+      <created>1538564146712</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537862494582</updated>
-      <workItem from="1537862500371" duration="7141000" />
+      <updated>1538564146712</updated>
+      <workItem from="1538564151964" duration="13552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7141000" />
+    <option name="totallyTimeSpent" value="13552000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="516" y="75" width="905" height="563" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -284,7 +290,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21503638" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30696577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -293,7 +299,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5491651" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -316,68 +322,61 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/EfficientSortStarterProgram/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EfficientSortStarterProgram/QuakeEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/QuakeEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MagnitudeComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TitleAndDepthComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="9" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TitleLastAndMagnitudeComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DifferentSorters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="80" column="50" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#1621#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MarkovRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WordGram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MarkovWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-211">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#1633#1641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IMarkovModel.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="8" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="17" />
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EfficientMarkovWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#573#581#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -434,12 +433,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>SortingAtScale</last-edited>
+          <last-edited>WordGram</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
